@@ -1,5 +1,5 @@
 # SMS_Spam_Detection_using_NLP
-A supervised deep learning project using Natural Language Processing(NLP) that classifies a given SMS as a spam/ ham message.
+A supervised deep learning project using Natural Language Processing(NLP) that classifies a given SMS as a spam/ham message.
 
 ![spam_ham_5](https://github.com/user-attachments/assets/78297550-6ec2-4cd3-ad4c-2e50645195be)
 
